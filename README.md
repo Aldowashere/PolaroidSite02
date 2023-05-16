@@ -8,6 +8,7 @@ The Polaroid site, also known as the 'Nomads Lighthouse Collection,' is part of 
 - Improvements and fixes
 * Autoscroll Button and Custom made GIF for new page start point 
 
+![GIF](https://github.com/Aldowashere/PolaroidSite02/blob/main/21.PNG)
 
 ## Roadmap 
 
